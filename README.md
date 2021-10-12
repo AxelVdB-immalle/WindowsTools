@@ -1,12 +1,15 @@
 # WindowsTools
-## Regedit
-- locatie: ``c:\windows\regedit.exe``
 
-- Doel: Windows register bewerken
+# GUI - Tools
 
-> Uitleg over regedit.exe:
-  https://www.bestanden.nl/proces/regedit.exe.html
-  
+  ## setupcl
+  - Locatie: ``c:\windows\setupcl.exe``
+
+  - Doel: Download en repareer problemen
+
+  > Uitleg over setupcl.exe
+    https://www.exefiles.com/nl/exe/setupcl-exe/
+ 
   ## HelpPane
   - locatie: ``c:\windows\HelpPane.exe``
 
@@ -39,4 +42,14 @@
    > Uitleg over Robocopy.exe
      https://atlex.tweakblogs.net/blog/830/robocopy-een-verborgen-schat-in-windows.html
     
-    
+   
+   # CLI - Tools
+   
+   ## Regedit
+   - locatie: ``c:\windows\regedit.exe``
+
+   - Doel: Windows register bewerken
+
+   > Uitleg over regedit.exe:
+     https://www.bestanden.nl/proces/regedit.exe.html
+     
