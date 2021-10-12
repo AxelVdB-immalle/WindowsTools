@@ -15,5 +15,12 @@
   > Uitleg over HelpPane.exe:
     https://nl.nex-software.com/wat-helppaneexe
     
-   ## nmbind
-   - Locatie: ``c:\windows\nmbind.exe``
+   ## TSTheme
+   - Locatie: ``c:\windows\TSTheme.exe``
+
+   - Doel: maakt nieuwe records en mappen aan in het Windows-register 
+
+   > Uitleg over TSTtheme.exe
+     https://www.file.net/process/tstheme.exe.html
+    
+    
