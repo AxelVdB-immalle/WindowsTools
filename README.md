@@ -15,4 +15,5 @@
   > Uitleg over HelpPane.exe:
     https://nl.nex-software.com/wat-helppaneexe
     
-    ##
+   ## nmbind
+   - Locatie: ``c:\windows\nmbind.exe``
