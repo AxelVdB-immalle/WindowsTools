@@ -22,5 +22,12 @@
 
    > Uitleg over TSTtheme.exe
      https://www.file.net/process/tstheme.exe.html
+     
+   ## tskill
+   - Locatie: ``c:\windows\tskill.exe``
+   
+   - Doel: Microsoft-hulpprogramma waarmee gebruikers een of meer taken of processen kunnen beëindigen
+
+   > Uitleg over 
     
     
