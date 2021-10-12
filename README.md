@@ -23,11 +23,20 @@
    > Uitleg over TSTtheme.exe
      https://www.file.net/process/tstheme.exe.html
      
-   ## tskill
-   - Locatie: ``c:\windows\tskill.exe``
+   ## taskkill
+   - Locatie: ``c:\windows\Taskkill.exe``
    
    - Doel: Microsoft-hulpprogramma waarmee gebruikers een of meer taken of processen kunnen beëindigen
 
-   > Uitleg over 
+   > Uitleg over Taskkill.exe
+     https://www.exefiles.com/nl/exe/taskkill-exe/
+     
+   ## Robocopy
+   - Locatie: ``c:\windosw\Robocopy.exe``
+
+   - Doel: Mappen kopiëren
+
+   > Uitleg over Robocopy.exe
+     https://atlex.tweakblogs.net/blog/830/robocopy-een-verborgen-schat-in-windows.html
     
     
